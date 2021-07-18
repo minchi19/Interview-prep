@@ -6,7 +6,7 @@ My journey for interview prep
   - [x]  [Video](https://www.youtube.com/watch?v=j5uXyPJ0Pew) 
   - [x]  [Reading](https://www.geeksforgeeks.org/binary-search/)
   - [x]  Implementation
-    - [x] Iterative
+    - [x] Iterative(https://github.com/minchi19/Interview-prep/blob/main/Code/Searching/Binary_serach_iteration.py)
     - [x] Recursive  
 
 
