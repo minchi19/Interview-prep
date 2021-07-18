@@ -1,6 +1,6 @@
 def binary_serach(x,s,first,last):
 	while first <= last:
-		mid = (first + last)//2
+		mid = first + (last-first)//2
 		if x[mid] == s:
 			return x[mid]
 			
