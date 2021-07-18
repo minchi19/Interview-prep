@@ -5,8 +5,10 @@ My journey for interview prep
 
 - [x] Linear Search
   - [x] [Video]()
-  - [x] [Implementation]()
-  - Start from the leftmost element of arr[] and one by one compare x with each element of arr[] 
+  - [x] [Reading](https://www.geeksforgeeks.org/linear-search/)
+  - [x] [Implementation](https://github.com/minchi19/Interview-prep/blob/main/Code/Searching/Linear_search.py)
+  - Start from the leftmost element of arr[] and one by one compare x with each element of arr[]
+  - O(N) 
    
 - [x] Binary Search
   - [x]  [Video](https://www.youtube.com/watch?v=j5uXyPJ0Pew) 
